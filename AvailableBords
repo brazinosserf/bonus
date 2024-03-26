@@ -1,0 +1,13 @@
+{
+    "FreeBoards": {
+        "WindBoards": {
+            "Available": 10
+        },
+        "SupBoards": {
+            "Available": 8
+        },
+        "SurfBoards": {
+            "Available": 4
+        }
+    }
+}
